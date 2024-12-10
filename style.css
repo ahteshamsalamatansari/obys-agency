@@ -599,3 +599,16 @@ footer>h5{
     z-index: 999999 !important;
     pointer-events: none;
 }
+#flag{
+    height: 25vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+}
+#hero3{
+    z-index: 999;
+    position: relative;
+    
+}
