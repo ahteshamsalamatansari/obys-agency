@@ -1,4 +1,16 @@
 @media (max-width:600px) {
+    @font-face{
+        font-family: "plain light";
+        src: url(./assets/fonts/plain-regular-webfont.ttf);
+    }
+    @font-face{
+        font-family: "plain light";
+        src: url(./assets/fonts/plain-light-webfont.ttf);
+    }
+    @font-face{
+        font-family: "silk serif";
+        src: url(./assets/fonts/silkserif-regularitalic-webfont.ttf);
+    }
 
     #loader {
         height: 100%;
