@@ -6,7 +6,8 @@ Obys Agency Portfolio is a stunning, modern web design showcasing a creative dig
 
 ![Project Banner](./assets/img/screenshots/banner.png)
 
-![Live Preview](https://ahteshamsalamatansari.github.io/obys-agency/)
+[![Live Preview](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white][https://ahteshamsalamatansari.github.io/obys-agency/]
+
 
 ## ✨ Features
 
